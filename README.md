@@ -1,7 +1,6 @@
 # 🚗 Sistema de parking com C# (.NET)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fzanneti/dio-and-wex-parking-challenge
-)
+![GitHub repo size](https://img.shields.io/github/repo-size/fzanneti/dio-and-wex-parking-challenge)
 ![GitHub forks](https://img.shields.io/github/forks/fzanneti/dio-and-wex-parking-challenge?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/fzanneti/dio-and-wex-parking-challenge?style=social)
 ![Linguagem](https://img.shields.io/badge/Linguagem-CSharp-blue)
