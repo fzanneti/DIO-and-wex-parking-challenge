@@ -148,12 +148,6 @@ public class Parkingservices
 
 ---
 
-### 🔹 `ValidadorPlaca.cs` (Opcional, não implementado)
-   
-- Planejado para validar formatos de placa (ex.: `^[A-Z]{3}-[0-9]{4}$`), mas não implementado na versão atual.
-
----
-
 ### 💻 Interface no Console (`Program.cs`)
    
 - Exibe um menu com as opções:
