@@ -1,0 +1,15 @@
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\bin\Debug\net8.0\parking.exe
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\bin\Debug\net8.0\parking.deps.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\bin\Debug\net8.0\parking.runtimeconfig.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\bin\Debug\net8.0\parking.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\bin\Debug\net8.0\parking.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.AssemblyInfoInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.AssemblyInfo.cs
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.csproj.CoreCompileInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.sourcelink.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\refint\parking.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\parking.genruntimeconfig.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-parking-challenge\parking\obj\Debug\net8.0\ref\parking.dll

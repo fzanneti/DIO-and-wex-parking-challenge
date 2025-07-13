@@ -32,15 +32,13 @@ Desenvolver um sistema console simples, porém estruturado, para gerenciar a ent
 | **Caminho**|**Descrição** |
 |--------------------------------------|----------------------------------------------------|
 | 📁 `/parking`|Diretório principal do projeto|
-| 📂 `/parking/Models`|Contém as classes de domínio|
-| 📄 `/parking/Models/Vehicles.cs`|Define a entidade Veículo (placa e hora de entrada)|
-| 📂 `/parking/Services`|Contém a lógica de negócio|
-| 📄 `/parking/Services/ParkingServices.cs`|Gerencia operações do estacionamento|
-| 📂 `/parking/Utils`|Classes auxiliares (opcional, não implementado)|
-| 📄 `/parking/Utils/ValidadorPlaca.cs` |Planejado para validação de placas (não implementado)|
+| 📂 `/parking/models`|Contém as classes de domínio|
+| 📄 `/parking/models/Vehicles.cs`|Define a entidade Veículo (placa e hora de entrada)|
+| 📂 `/parking/services`|Contém a lógica de negócio|
+| 📄 `/parking/services/ParkingServices.cs`|Gerencia operações do estacionamento|
 | 📄 `/parking/Program.cs`|Ponto de entrada do programa|
-| 📄 `parking.sln`|Arquivo de solução do projeto|
-| 📄 `parking.csproj`|Arquivo de projeto, configurado para .NET 9.0 |
+| 📄 `/parking/parking.csproj`|Arquivo de projeto, configurado para .NET 8.0 |
+| 📄 `dio-and-wex-parking-challenge.sln`|Arquivo de solução do projeto|
 | 📄 `README.md`|Documentação do projeto|
 
 ---
@@ -127,11 +125,11 @@ public class Veiculo
 ```
 - Representa um veículo com placa e hora de entrada.
 
-### 🔹 `ParkingServices.cs`
+### 🔹 `Parkingservices.cs`
    
 ```csharp
 
-public class ParkingServices
+public class Parkingservices
 {
     private decimal precoInicial = 5;
     private decimal precoPorHora = 2;
